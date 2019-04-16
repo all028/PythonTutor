@@ -1,0 +1,7 @@
+1. all paths are hardcoded
+2. student function missing colon
+3. configFile/conn not closed.
+4. for loop spacing issue
+5.  insert sql faulty. correct Insert into student(name) values('" + data + "') but missing INTO
+6. x = 1 but it is set to 0 which should cause index out of range error
+7.  bug switch set to w rather than r
